@@ -57,7 +57,7 @@ Detailed instructions on how to use the codes are provided. For any queries rela
 EnzFinder code repository is a TCS proprietary resource and should be used for academic purposes only. The contents of this repository should not be used for any commercial purpose without the consent of ALL the authors involved. By downloading and utilizing the scripts, the user consents that any and all Intellectual Property derived from the EnzFinder code repository is fully owned by TCS in the associated jurisdictions. EnzFinder code repository usage without citation will be considered illegal.
 
 ### Contact Us
-For further queries related to code usage, please write to us: roy.arijit3@tcs.com
+For further queries related to code usage, please write to us: akriti.j@tcs.com
 
 ### Citation
 Please cite this article if you use the codes in this repository for your research:
