@@ -1,0 +1,65 @@
+Cofactors_pairs	sorted_RDM	Co-factor_EC-list
+10-Formyltetrahydrofolate_Tetrahydrofolate	N1b-N1c:H-C4a:C1b+C8y-C1b+C8y	EC-2.1.2
+2-oxoglutarate_succinate	C5a-C6a:C6a+O5a-O6a+O6a:C1b-C1b	EC-1.14.20,EC-1.14.11
+"2-Phytyl-1,4-naphthoquinone_Demethylphylloquinol"""	C5x-C8y:C2x+O5x-C8x+O1a:C8y-C8y	EC-1.6.5
+"2-Phytyl-1,4-naphthoquinone_Demethylphylloquinol"""	C5x-C8y:C2y+O5x-C8y+O1a:C8y-C8y	EC-1.1.5,EC-1.6.5,EC-1.3.5,EC-1.7.5,EC-1.2.5,EC-1.8.5,EC-1.12.5,EC-1.17.5,
+5-Formiminotetrahydrofolate_Tetrahydrofolate	N1x-N1y:H-C2b:C1y+C8y-C1y+C8y	EC-2.1.2
+"5,10-Methylenetetrahydrofolate_Tetrahydrofolate"""	N1b-N1y:C1b+H-C1x+C1x:C8y-C8y	EC-2.1.5
+"5,10-Methylenetetrahydrofolate_Tetrahydrofolate"""	N1x-N1y:H-C1x:C1y+C8y-C1y+C8y	EC-2.1.5
+acetyl-CoA_CoA	S1a-S2a:H-C5a:C1b-C1b	EC-2.3.1,EC-2.3.3
+ADP_AMP	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+ADP_Orthophosphate	O1c-O2b:H-C1b:P1b-P1b	EC-2.4.2
+ADP_Orthophosphate	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+Ascorbate_Dehydroascorbate	C2y-C5x:C2y+O1a-C5x+O5x:C7x-C7x	EC-1.14.17
+Ascorbate_Dehydroascorbate	C2y-C5x:C2y+O1a-C5x+O5x:C1y-C1y	EC-1.14.17
+ATP_ADP	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+ATP_AMP	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+ATP_Diphosphate	O2b-O2c:C1b-P1b:P1b-P1b	EC-2.7.1,EC-6.2.1
+ATP_Diphosphate	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+"Butanoyl-CoA_CoA"""	S1a-S2a:H-C5a:C1b-C1b	EC-2.3.1,EC-2.3.3
+Carbamoyl phosphate_Orthophosphate 	O1c-O7a:H-C7a:P1b-P1b	NA
+CDP_CMP	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+Coenzyme F420_Reduced coenzyme F420	C1x-C8x:H-*:C8y+C8y+H-C8y+C8y+H	EC-1.1.98,EC-1.5.98,EC-1.8.98,EC-1.17.98
+Coenzyme F420_Reduced coenzyme F420	N4x-N5x:H-*:C8y+C8y-C8y+C8y	EC-1.14.14,EC-1.3.8,EC-1.5.8,EC-1.1.98,EC-1.5.98,EC-1.8.98,EC-1.17.98
+CTP_CMP	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+CTP_Diphosphate	O1c-O2b:H-C1b:P1b-P1b	EC-2.4.2
+CTP_Diphosphate	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+Enzyme N6-(lipoyl)lysine_S-Acetyldihydrolipoamide-E	S1a-S3x:C1c+H-C1y+S3x:*-*	EC-1.2.4,EC-1.4.4
+Enzyme N6-(lipoyl)lysine_S-Acetyldihydrolipoamide-E	S2a-S3x:C1b+C5a-C1x+S3x:*-*	EC-1.2.4
+FAD_FADH2	N1x-N5x:H-*:C8y+C8y-C8y+C8y	EC-1.14.14,EC-1.3.8,EC-1.5.8
+FAD_FADH2	N4x-N5x:H-*:C8y+C8y-C8y+C8y	EC-1.14.14,EC-1.3.8,EC-1.5.8,EC-1.1.98,EC-1.5.98,EC-1.8.98,EC-1.17.98
+FMN_FMNH2	N1x-N5x:H-*:C8y+C8y-C8y+C8y	EC-1.14.14,EC-1.3.8,EC-1.5.8
+FMN_FMNH2	N4x-N5x:H-*:C8y+C8y-C8y+C8y	EC-1.14.14,EC-1.3.8,EC-1.5.8,EC-1.1.98,EC-1.5.98,EC-1.8.98,EC-1.17.98
+Glutathione(GSH)_Glutathione disulfide(GSSG)	S1a-S3a:H-S3a:C1b-C1b	EC-1.8.4,EC-1.21.4,EC-1.3.4,EC-1.20.4,EC-1.5.4
+GTP _Diphosphate	O1c-O2b:H-C1b:P1b-P1b	EC-2.4.2
+GTP _Diphosphate	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+GTP_GDP	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+GTP_GMP	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+Hydroxybenzoquinone_Hydroxyhydroquinone	C5x-C8y:C2x+C2y+O5x-C8x+C8y+O1a:*-*	EC-1.3.5,EC-1.6.5
+Hydroxybenzoquinone_Hydroxyhydroquinone	C5x-C8y:C2x+C2x+O5x-C8x+C8x+O1a:*-*	EC-1.6.5
+L-arginine_L-ornithine	N1a-N1b:H-C2c:C1b+H-C1b+H	EC-2.1.4
+L-homocysteine_L-methionine	S1a-S2a:H-C1a:C1b-C1b	EC-2.1.1
+NAD+_NADH	C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H	EC-1.1.1,EC-1.2.1,EC-1.3.1,EC-1.4.1,EC-1.5.1,EC-1.7.1,EC-1.8.1,EC-1.10.1,EC-1.12.1,EC-1.14.12,EC-1.14.13,EC-1.16.1,EC-1.17.1,EC-1.18.1,EC-1.19.1,EC-1.20.1,EC-1.21.1,EC-1.23.1
+NAD+_NADH	N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y	EC-1.1.1,EC-1.2.1,EC-1.3.1,EC-1.4.1,EC-1.5.1,EC-1.7.1,EC-1.8.1,EC-1.10.1,EC-1.12.1,EC-1.14.12,EC-1.14.13,EC-1.16.1,EC-1.17.1,EC-1.18.1,EC-1.19.1,EC-1.20.1,EC-1.21.1,EC-1.23.1
+NADP+_NADPH	C1x-C8x:C2x+C2y+H-*+C8x+C8y:H-H	EC-1.1.1,EC-1.2.1,EC-1.3.1,EC-1.4.1,EC-1.5.1,EC-1.7.1,EC-1.8.1,EC-1.10.1,EC-1.12.1,EC-1.14.12,EC-1.14.13,EC-1.16.1,EC-1.17.1,EC-1.18.1,EC-1.19.1,EC-1.20.1,EC-1.21.1,EC-1.23.1
+NADP+_NADPH	N1y-N5y:C2x+C2x-C8x+C8x:C1y-C1y	EC-1.1.1,EC-1.2.1,EC-1.3.1,EC-1.4.1,EC-1.5.1,EC-1.7.1,EC-1.8.1,EC-1.10.1,EC-1.12.1,EC-1.14.12,EC-1.14.13,EC-1.16.1,EC-1.17.1,EC-1.18.1,EC-1.19.1,EC-1.20.1,EC-1.21.1,EC-1.23.1
+o-Benzoquinone_Quinol	C5x-C8x:C2x+C5x+O5x-C8x+C8y+H:*-*	EC-1.6.5
+o-Benzoquinone_Quinol	C5x-C8y:C2x+C5x+O5x-C8x+C8x+O1a:*-*	EC-1.6.5
+o-Benzoquinone_Quinol	O1a-O5x:C8y+H-*+C5x:*-*	EC-1.6.5
+O2_H2O	O0-O0:*+O0-H+H:*-*	EC-1.10.3,EC-1.14.15,EC-1.14.18,EC-1.14.14
+Oxidized dithiothreitol_Dithiothreitol	S1a-S3x:C1b+H-C1x+S3x:*-*	EC-1.8.4,EC-1.17.4,EC-1.21.4,EC-1.20.4
+Oxygen_Hydrogen peroxide	O0-O1a:*+O0-H+O1a:*-*	EC-1.1.3,EC-1.17.3,EC-1.6.3,EC-1.4.3,EC-1.8.3,EC-1.5.3,EC-1.10.3,EC-1.21.3,EC-1.2.3,EC-1.3.3,EC-1.7.3,
+"Palmitoyl-CoA_CoA"""	S1a-S2a:H-C5a:C1b-C1b	EC-2.3.1,EC-2.3.3
+"Phenylacetyl-CoA_CoA"""	S1a-S2a:H-C5a:C1b-C1b	EC-2.3.1,EC-2.3.3
+Pyruvate_Oxaloacetate	C1a-C1b:*-C6a:C5a+H+H-C5a+H+H	NA
+Quinone_Quinol	C5x-C8y:C2x+C2x+O5x-C8x+C8x+O1a:*-*	EC-1.6.5
+S-adenosyl-L-methionine_L-Methionine	S2a-S2b:*-C1b:C1a+C1b-C1a+C1b	EC-1.21.98,EC-2.1.1
+S-adenosyl-L-methionine_S-adenosyl-L-homocysteine	S2a-S2b:*-C1a:C1b+C1b-C1b+C1b	EC-2.1.1
+Thioredoxin_Thioredoxin disulfide	S1a-S3x:C1b+H-C1x+S3x:*-*	EC-1.8.4,EC-1.17.4,EC-1.21.4,EC-1.20.4
+Thioredoxin_Thioredoxin disulfide	S1a-S3x:C1b+H-C1x+S3x:*-*	EC-1.8.4,EC-1.17.4,EC-1.21.4,EC-1.20.4
+Thiosulfate_Sulfite	S4a-S4a:S1a-*:O1d+O1d+O1d-O1d+O1d+O1d	NA
+Ubiquinone(Coenzyme Q)_Ubiquinol	C5x-C8y:C2y+C2y+O5x-C8y+C8y+O1a:*-*	EC-1.2.5,EC-1.5.5,EC-1.1.5,EC-1.3.5,EC-1.7.5,EC-1.6.5,EC-1.17.5,EC-1.10.5,EC-1.8.5
+Ubiquinone(Coenzyme Q)_Ubiquinol	C5x-C8y:C2y+C2y+O5x-C8y+C8y+O1a:*-*	EC-1.2.5,EC-1.5.5,EC-1.1.5,EC-1.3.5,EC-1.7.5,EC-1.6.5,EC-1.17.5,EC-1.10.5,EC-1.8.5
+UDP_UMP	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4
+UTP _Diphosphate	O1c-O2b:H-C1b:P1b-P1b	EC-2.4.2
+UTP _Diphosphate	O1c-O2c:H-P1b:P1b-P1b	EC-2.7.7,EC-6.3.2,EC-2.7.1,EC-6.4.1,EC-6.2.1,EC-2.4.2,EC-6.3.1,EC-6.2.2,EC-6.3.4

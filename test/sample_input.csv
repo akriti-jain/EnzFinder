@@ -1,0 +1,7 @@
+Name	REACTION-SMILES
+90210	N=c1[nH]c2c(c(=O)[nH]1)NC(CN(C=O)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN2.NC(=O)c1ccc[n+]([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](OP(=O)(O)O)[C@@H]3O)[C@@H](O)[C@H]2O)c1.O>>N=c1[nH]c2c(c(=O)[nH]1)NC(CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN2.NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](OP(=O)(O)O)[C@@H]3O)[C@@H](O)[C@H]2O)C=CC1.O=C=O.[H+]
+74648	C=C1C(=O)O[C@@H]2/C=C(\C)CC/C=C(\C)CC[C@@H]12.NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](OP(=O)(O)O)[C@@H]3O)[C@@H](O)[C@H]2O)C=CC1.[H+]>>CC1=C[C@H]2OC(=O)[C@H](C)[C@@H]2CCC(C)=CCC1.NC(=O)c1ccc[n+]([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](OP(=O)(O)O)[C@@H]3O)[C@@H](O)[C@H]2O)c1
+42601	CN1[C@@H]2C[C@H](OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H](O)C2.O=C(O)CCC(=O)C(=O)O.O=O>>CN1[C@@H]2C[C@H](OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H](O)C2O.O=C(O)CCC(=O)O.O=C=O
+Islatravir	OC[C@@](O)(C=O)C#C.CC(=O)OP(O)(O)=O>>O[C@](COP(O)(O)=O)(C=O)C#C.CC(=O)[O-]
+A2	[O-][N+](=O)C1=CC(=CC=C1)[C@@H]1CO1>>NC1=CC(=CC=C1)[C@@H]1CO1
+A3	OC=O.NC1=CC(=CC=C1)[C@@H]1CO1>>O=CNC1=CC(=CC=C1)[C@@H]1CO1
