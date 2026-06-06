@@ -50,19 +50,19 @@ If reaction is atom-atom mapped, then use `--mapped 1`, otherwise `--mapped 0`
 python enzFinder.py --mapped 1 --i sample_input.csv
 ```
 
-## Code usage
+### Code usage
 Detailed instructions on how to use the codes are provided. For any queries related to code usage, contact the corresponding author for more information.
 
-## Copyright Notice
+### Copyright Notice
 EnzFinder code repository is a TCS proprietary resource and should be used for academic purposes only. The contents of this repository should not be used for any commercial purpose without the consent of ALL the authors involved. By downloading and utilizing the scripts, the user consents that any and all Intellectual Property derived from the EnzFinder code repository is fully owned by TCS in the associated jurisdictions. EnzFinder code repository usage without citation will be considered illegal.
 
-## Contact Us
+### Contact Us
 For further queries related to code usage, please write to us: roy.arijit3@tcs.com
 
-## Citation
+### Citation
 Please cite this article if you use the codes in this repository for your research:
 
-## License: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
+### License: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
 
 
                    
